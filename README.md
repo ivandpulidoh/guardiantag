@@ -1,6 +1,6 @@
-# google_maps_yt
+# GuardianTag
 
-A new Flutter project.
+repositorio para la aplicación móvil de GuardianTag
 
 ## Getting Started
 
